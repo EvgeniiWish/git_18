@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ed84fc3-0cf4-44fc-a3e7-e4381616641f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/AdvancedHouseCollectionTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/ComplexHouseCollectionTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/DetailedHouseCollectionTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/Do.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/HouseCollectionTasks_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/HouseGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/MoreAdvancedHouseCollectionTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/SimpleHouseCollectionTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/t1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/t2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/t3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/taski/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/taski/FigureGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/taski/FigureTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/taski/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/taski/Student.java" afterDir="false" />
+    <list default="true" id="2ed84fc3-0cf4-44fc-a3e7-e4381616641f" name="Changes" comment="Students 5 task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/HouseCollectionTasks_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/testCollection/task1/HouseCollectionTasks_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +69,21 @@
       <option name="presentableId" value="Default" />
       <updated>1715080810561</updated>
     </task>
+    <task id="LOCAL-00001" summary="Students 5 task">
+      <created>1715085359160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715085359160</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Students 5 task">
+      <created>1715085404336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715085404336</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Students 5 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Students 5 task" />
   </component>
 </project>
